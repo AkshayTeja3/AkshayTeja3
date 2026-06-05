@@ -1,48 +1,70 @@
-# Akshay Teja — Systems Designer & Developer
+Akshay Teja — Software Engineer & Systems Builder
 
-I build simulations of human behavior and high-performance systems that bridge technical complexity with real-world incentives.
+I build software systems, simulations, and backend applications that explore how technical architecture interacts with real-world constraints, incentives, and human behavior.
 
-## What I Do
+What I Work On
 
-- **System Architecture** — Design agents, incentives, and emergent behavior
-- **High-Performance Computing** — C++20, threading, parallel execution (4.03x speedup)
-- **Backend Engineering** — Java, Spring Boot, PostgreSQL, JWT, event-driven architecture
-- **Simulation Design** — Multi-agent systems, behavioral economics, propaganda dynamics
+- Backend Engineering — Java, Spring Boot, PostgreSQL, JWT authentication, REST APIs
+- Systems Programming — C++20, multithreading, concurrency, performance optimization
+- Simulation & Modeling — Multi-agent systems, trust dynamics, decision-making, emergent behavior
+- System Design — Architecture, tradeoffs, scalability, reliability, and workflow design
 
-## Featured Projects
+Featured Projects
 
-### ChronosExec (C++)
-Adaptive order execution engine with 4.03x parallel speedup and 64% cost reduction. Thread pool, market impact modeling, volatility regimes.
-→ [GitHub](https://github.com/AkshayTeja3/ChronosExec)
+ChronosExec (C++)
 
-### DecidArch (Python)
-Three behavioral simulations: Hiring (asymmetric info), Superego (guilt/collapse with 11% collapse rate), Bernays (propaganda and credibility).
-→ *Private repository — available upon request*
+Adaptive order execution engine featuring multithreaded execution, market impact modeling, volatility-aware strategies, and a measured 4.03× execution speedup. Designed to explore performance engineering and execution-system architecture.
 
-### NexaQuant (Java)
-Black-Scholes pricing engine with sentiment adjustment. Calculates fair value (truth) and market price (perception). The gap is the signal.
-→ [GitHub](https://github.com/AkshayTeja3/NexaQuant)
+DecidArch (Python)
 
-### docusign-clone (Java)
-Enterprise document signing backend: JWT auth, sequential/parallel workflows, audit logging, event-driven notifications.
-→ [GitHub](https://github.com/AkshayTeja3/docusign-clone)
+A collection of behavioral and organizational simulations exploring trust, incentives, information asymmetry, credibility, and decision-making in complex systems.
 
-### mini-rippling (Java)
-HR backend clone: JWT auth, payroll engine with immutable history, attendance tracking, leave workflows.
-→ [GitHub](https://github.com/AkshayTeja3/mini-rippling)
+Key simulations include:
 
-### ApiForge (Java + React)
-Lightweight API testing tool with request history, response inspection, and proxy architecture.
-→ [GitHub](https://github.com/AkshayTeja3/ApiForge)
+- Hiring Simulator — asymmetric information and candidate evaluation
+- Superego Simulator — cooperation, guilt, and social collapse dynamics
+- Bernays Simulator — credibility, trust decay, and information propagation
 
-## What I'm Reading / Learning
+Private repository — available upon request.
 
-- **Freud** — Civilization, superego, guilt as control infrastructure
-- **Bernays** — Propaganda, credibility, manufactured consent
-- **Chanakya** — Statecraft, strategy, espionage (next simulation)
+NexaQuant (Java)
 
-## Contact
+Quantitative finance project combining Black-Scholes option pricing with sentiment-adjusted valuation. Explores the relationship between intrinsic value, market perception, and pricing inefficiencies.
 
-- **Email:** umaakshay26@gmail.com
-- **LinkedIn:** *[Add your LinkedIn URL]*
-- **GitHub:** [github.com/AkshayTeja3](https://github.com/AkshayTeja3)
+ApiForge (Java + React)
+
+API testing and development tool featuring request history, response inspection, and proxy-based architecture for debugging and experimentation.
+
+Mini Rippling (Java)
+
+HR management backend inspired by enterprise HR platforms. Includes employee onboarding, attendance tracking, leave management, payroll processing, immutable employment history, and JWT-based authentication.
+
+Document Workflow Platform (Java)
+
+Document-signing backend inspired by modern e-signature platforms. Features sequential and parallel approval workflows, audit logging, authentication, and event-driven notifications.
+
+Current Interests
+
+- Distributed Systems & System Design
+- Behavioral Economics & Incentive Structures
+- Financial Systems & Market Microstructure
+- Organizational Decision-Making
+- Multi-Agent Simulations
+
+Technologies
+
+Languages: Java, C++, Python, SQL
+
+Backend: Spring Boot, Spring Security, JPA/Hibernate, REST APIs
+
+Databases: PostgreSQL
+
+Concepts: Concurrency, System Design, Event-Driven Architecture, Authentication, Simulation Design
+
+Contact
+
+Email: umaakshay26@gmail.com
+
+GitHub: github.com/AkshayTeja3
+
+LinkedIn: [Add LinkedIn URL]
