@@ -35,10 +35,6 @@ Enterprise document signing backend: JWT auth, sequential/parallel workflows, au
 Lightweight API testing tool with request history and response inspection.
 → [GitHub](https://github.com/AkshayTeja3/ApiForge)
 
-### ChronosExec (C++)
-High-performance order execution engine with 4.03x parallel speedup.
-→ [GitHub](https://github.com/AkshayTeja3/ChronosExec)
-
 ## What I'm Reading / Learning
 
 - Freud (civilization, superego)
